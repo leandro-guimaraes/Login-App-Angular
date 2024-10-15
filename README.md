@@ -1,5 +1,8 @@
 # LoginPage
 
+![Captura de tela 2024-10-14 232813](https://github.com/user-attachments/assets/26f67147-ad30-443b-a31d-5a8ebfd2f593)
+![Captura de tela 2024-10-14 232725](https://github.com/user-attachments/assets/965b323b-ec3e-44db-bc55-1329baab8575)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
 
 ## Development server
